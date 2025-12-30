@@ -23,7 +23,7 @@ The goal is to build strong fundamentals while keeping progress organised and ea
 - **Day02** — Core logic  
   Mathematical operators, numbers, f-strings, and `if` statements
 
-- **Day03** — Comparing And Boolean
+- **Day03** — Comparing And Boolean  
   `and`, `not` `or` logic and comparitive operators: `!=`, `>`
 
 ---
