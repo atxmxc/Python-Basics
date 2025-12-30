@@ -27,3 +27,19 @@ print(f'Value: {value}')
 value = float(input('Enter a number: ')) #float() expects a decimal. Same as int().
 print(f'Value: {value}')
 
+#strip function
+#.strip() allows you to remove unnecessary spaces or letters in your inputs. However the middle of the word will be left untouched if theres a space.
+a1 = input("Enter Something: ").strip()
+print(f'Value: {a1}')
+
+a2 = input("Enter Something: ").strip("abc")
+print(f'Value: {a2}')
+
+#lstrip() and rstrip()
+#these basically let you control what side gets stripped or not
+
+a3 = input('Enter Something: ').rstrip()
+print(f'Value: {a3}')
+
+a4 = input('Enter Something: ').lstrip()
+print(f'Value: {a4}')

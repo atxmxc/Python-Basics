@@ -1,9 +1,9 @@
 #First Basic Project. An Info Inputter and Outputter.
 print("==========Personal==Info==Inputter/Outputter========")
 #name
-firstname = str(input("Enter Your First Name: "))
-middlename = str(input("Enter Your Middle Name: [leave empty if none]"))
-lastname = str(input("Enter Last Name: "))
+firstname = input("Enter Your First Name: ")
+middlename = input("Enter Your Middle Name: [leave empty if none]")
+lastname = input("Enter Last Name: ")
 
 #age
 year = int(input("Enter Current Year: "))
