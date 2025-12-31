@@ -26,6 +26,9 @@ The goal is to build strong fundamentals while keeping progress organised and ea
 - **Day03** — Comparing And Boolean  
   `and`, `not` `or` logic and comparitive operators: `!=`, `>`
 
+- **Day04** - Loops and controlling them  
+  `while`, `for _ in range(_)` loops and `continue`, `break` logic.
+
 ---
 
 ## 🔄 Updates
