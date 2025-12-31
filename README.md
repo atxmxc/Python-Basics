@@ -29,6 +29,9 @@ The goal is to build strong fundamentals while keeping progress organised and ea
 - **Day04** - Loops and controlling them  
   `while`, `for _ in range(_)` loops and `continue`, `break` logic.
 
+- **Day05** - Functions  
+  `def ______():` function, how to use `return` and how to use them efficiently.
+
 ---
 
 ## 🔄 Updates
