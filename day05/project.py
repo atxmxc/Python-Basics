@@ -3,6 +3,9 @@ def get_num(prompt):
     return int(input(prompt).strip())
 
 def calculate(a, b, opp):
+    if opp in ('/', '//', '%') and b == 0:
+        return None
+    
     if opp == '+':
         return a + b
     elif opp == '-':
@@ -23,7 +26,7 @@ def calculate(a, b, opp):
 print("=======Calculator=======")
 num1 = get_num("Number: ")
 num2 = get_num("Number: ")
-operator = input("Enter Operator: ")
+operator = input("Enter Operator: ").strip()
 
 result = calculate(num1, num2, operator)
 
