@@ -35,6 +35,9 @@ The goal is to build strong fundamentals while keeping progress organised and ea
 - **Day06** - lists and combining previous days  
   `__ = []` and combining them into while loops, using `continue` and `break` for programs and using `.append()`, `.remove()` functions
 
+- **Day07** - dictionaries and fucntions  
+  `user.pop` and `del user["make"]` fucntions to remove, `user["age"]=12` to add to dictionaries and how to use functions to add stuff to dictionaries  
+
 ---
 
 ## 🔄 Updates
