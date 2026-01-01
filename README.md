@@ -44,6 +44,9 @@ The goal is to build strong fundamentals while keeping progress organised and ea
 - **Day09** - using json and implementing it into previous projects  
   `json.dump`, `with open()` and implementing them into functions to modify day07/08 to do list for storing it into a json file.
 
+- **Day10** - rewriting and creating robust programs  
+  `try` and `except` mostly used with some notes of `else` and `finally`
+
 ---
 
 ## 🔄 Updates

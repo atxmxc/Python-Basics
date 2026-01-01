@@ -35,8 +35,8 @@ del car["Reliable"]
 car.pop("Reliable", None)
 
 #looping through dictionaries
-# for make in car:
-#     print(make, car['make'])
+for make in car:
+    print(make, car['make'])
 
 #or
 

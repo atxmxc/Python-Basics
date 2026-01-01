@@ -8,9 +8,9 @@
 #now we can use our first import; import json
 import json
 #saving data
-# tasks = 4
-# with open("tasks.json", "w") as g:
-#     json.dump(tasks, g)
+tasks = 4
+with open("tasks.json", "w") as g:
+    json.dump(tasks, g)
 
 #loading data from a file
 with open("tasks.json", "r") as g:
