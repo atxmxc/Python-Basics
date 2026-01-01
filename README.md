@@ -47,6 +47,9 @@ The goal is to build strong fundamentals while keeping progress organised and ea
 - **Day10** - rewriting and creating robust programs  
   `try` and `except` mostly used with some notes of `else` and `finally`
 
+- **Day11** - handling and logging text files  
+  different way to append and remove data from txt files, learning about `"w"`, `"a"` and `"r"` depending on the aim 
+
 ---
 
 ## 🔄 Updates
