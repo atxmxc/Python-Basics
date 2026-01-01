@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "title": "wash",
+    "done": false
+  },
+  {
+    "title": "clean",
+    "done": false
+  },
+  {
+    "title": "wacth",
+    "done": false
+  },
+  {
+    "title": "drink",
+    "done": false
+  }
+]

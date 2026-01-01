@@ -50,6 +50,9 @@ The goal is to build strong fundamentals while keeping progress organised and ea
 - **Day11** - handling and logging text files  
   different way to append and remove data from txt files, learning about `"w"`, `"a"` and `"r"` depending on the aim 
 
+- **Day12** - csv and handling them  
+  understanding how `DictWriter` works and how to use these in a function to be called.
+
 ---
 
 ## 🔄 Updates
