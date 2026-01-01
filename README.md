@@ -41,6 +41,9 @@ The goal is to build strong fundamentals while keeping progress organised and ea
 - **Day08** - combining lists and dictionaries  
   `user = [{"name": "Andy, "age": 14}]` and learning how to append and remove from the dictionary with functions
 
+- **Day09** - using json and implementing it into previous projects  
+  `json.dump`, `with open()` and implementing them into functions to modify day07/08 to do list for storing it into a json file.
+
 ---
 
 ## 🔄 Updates
