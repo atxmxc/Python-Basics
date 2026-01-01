@@ -38,6 +38,9 @@ The goal is to build strong fundamentals while keeping progress organised and ea
 - **Day07** - dictionaries and fucntions  
   `user.pop` and `del user["make"]` fucntions to remove, `user["age"]=12` to add to dictionaries and how to use functions to add stuff to dictionaries  
 
+- **Day08** - combining lists and dictionaries  
+  `user = [{"name": "Andy, "age": 14}]` and learning how to append and remove from the dictionary with functions
+
 ---
 
 ## 🔄 Updates
