@@ -32,7 +32,7 @@ The goal is to build strong fundamentals while keeping progress organised and ea
 - **Day05** - Functions  
   `def ______():` function, how to use `return` and how to use them efficiently.
 
-- **Day06** - lists and combining previous days
+- **Day06** - lists and combining previous days  
   `__ = []` and combining them into while loops, using `continue` and `break` for programs and using `.append()`, `.remove()` functions
 
 ---
