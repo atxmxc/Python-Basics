@@ -16,5 +16,14 @@
     "winddirection": 251,
     "is_day": 1,
     "weathercode": 3
+  },
+  {
+    "time": "2026-01-02T16:45",
+    "interval": 900,
+    "temperature": 2.3,
+    "windspeed": 10.0,
+    "winddirection": 300,
+    "is_day": 0,
+    "weathercode": 1
   }
 ]

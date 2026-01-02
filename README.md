@@ -65,6 +65,8 @@ The goal is to build strong fundamentals while keeping progress organised and ea
 - **Day16** — Using API + exporting to json and using them in fucntions  
   using `pathlib` library to open files and paths to assist the project
 
+- **Day17** — using API Keys and environmental variables  
+  using `$env:API_KEY` to store the api key securly 
 <!-- AUTO-DAYS -->
 ---
 
