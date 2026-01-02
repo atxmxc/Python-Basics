@@ -9,6 +9,8 @@ venv/
 # Environment variables
 .env
 *.log
+history.json
+weather.csv
 
 # OS junk
 .DS_Store
