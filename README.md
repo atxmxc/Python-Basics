@@ -56,6 +56,9 @@ The goal is to build strong fundamentals while keeping progress organised and ea
 - **Day13** - creating CLI Tools instead of scripts  
   using `argparse` library to use command line instead of viewable menu
 
+- **Day14** - using `os` and `shutil` libraries to create scripts  
+  using these libraries to create automated scripts like moving files into folder based on extensions.
+
 ---
 
 ## 🔄 Updates
