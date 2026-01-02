@@ -70,6 +70,7 @@ The goal is to build strong fundamentals while keeping progress organised and ea
 
 - **Day18** — day 18: cli api tool with history, json, csv export, and logging
 
+- **Day19** — day 19: bundling all of api's, api keys, json history and csv exporting.
 
 <!-- AUTO-DAYS -->
 ---
