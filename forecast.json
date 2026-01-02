@@ -1,0 +1,20 @@
+[
+  {
+    "time": "2026-01-02T14:45",
+    "interval": 900,
+    "temperature": 3.5,
+    "windspeed": 13.4,
+    "winddirection": 306,
+    "is_day": 1,
+    "weathercode": 1
+  },
+  {
+    "time": "2026-01-02T15:00",
+    "interval": 900,
+    "temperature": -3.6,
+    "windspeed": 15.6,
+    "winddirection": 251,
+    "is_day": 1,
+    "weathercode": 3
+  }
+]
