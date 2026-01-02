@@ -67,6 +67,10 @@ The goal is to build strong fundamentals while keeping progress organised and ea
 
 - **Day17** — using API Keys and environmental variables  
   using `$env:API_KEY` to store the api key securly 
+
+- **Day18** — day 18: cli api tool with history, json, csv export, and logging
+
+
 <!-- AUTO-DAYS -->
 ---
 
