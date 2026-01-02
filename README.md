@@ -59,7 +59,15 @@ The goal is to build strong fundamentals while keeping progress organised and ea
 - **Day14** - using `os` and `shutil` libraries to create scripts  
   using these libraries to create automated scripts like moving files into folder based on extensions.
 
+- **Day15** — Using HTTP and Requests  
+  using `requests` library to fetch data and parse it
+
+<!-- AUTO-DAYS -->
 ---
 
 ## 🔄 Updates
 This README will be **updated daily** as new topics and projects are added.
+
+## Progress
+
+
