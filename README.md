@@ -53,6 +53,9 @@ The goal is to build strong fundamentals while keeping progress organised and ea
 - **Day12** - csv and handling them  
   understanding how `DictWriter` works and how to use these in a function to be called.
 
+- **Day13** - creating CLI Tools instead of scripts  
+  using `argparse` library to use command line instead of viewable menu
+
 ---
 
 ## 🔄 Updates

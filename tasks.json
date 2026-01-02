@@ -14,5 +14,9 @@
   {
     "title": "drink",
     "done": false
+  },
+  {
+    "title": "wash clothes",
+    "done": true
   }
 ]
