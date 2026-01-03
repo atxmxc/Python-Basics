@@ -72,6 +72,10 @@ The goal is to build strong fundamentals while keeping progress organised and ea
 
 - **Day19** — day 19: bundling all of api's, api keys, json history and csv exporting.
 
+- **Day20** — **MILESTONE 1 PROJECT**
+
+- **Day21** — Building On and refining the milestone project.
+
 <!-- AUTO-DAYS -->
 ---
 
