@@ -3,6 +3,6 @@
 
 ## USAGE  
 - python day20/project.py --city London --save  
-- python day20/project.py --city New_Delhi --save
+- python day20/project.py --report --city London --since 24h
 - python day20/project.py --export  
 - python day20/project.py --report  
