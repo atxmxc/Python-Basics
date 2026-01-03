@@ -1,3 +1,4 @@
+# day19 project; a mixture of json history, usiung pathlib and extracting
 import json
 from pathlib import Path
 
